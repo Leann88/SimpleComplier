@@ -1,4 +1,4 @@
-// Oct.6, 1998   By Gregor v. Bochmann & Yaoping Wang
+//By Leann Labelle
 import java.io.*;
 import java.util.*;
 

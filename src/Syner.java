@@ -1,5 +1,4 @@
-// Syner.java Oct.6, 1998   By Gregor v. Bochmann & Yaoping Wang
-// revised by G.v. Bochmann, March 7, 2009, and March 4, 2013
+//By: Leann Labelle
 import java.io.*;
 import java.util.*;
 

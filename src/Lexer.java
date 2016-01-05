@@ -1,5 +1,7 @@
-//Oct.6, 1998   by Gregor v. Bochmann & Yaoping Wang
-// revised by G.v. Bochmann, March 7, 2009
+
+/*
+* By: Leann Labelle
+*/
 import java.io.*;
 import java.util.*;
 import java.util.regex.*;
