@@ -1,0 +1,4 @@
+BEGIN Var1 := ten;
+Var2 := ;
+VAR3 := 
+END

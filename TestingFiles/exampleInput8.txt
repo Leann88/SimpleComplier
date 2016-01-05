@@ -1,0 +1,3 @@
+BEGIN Var1 := ten;
+Var2 := Var1 + (9 * 8 ;
+END
